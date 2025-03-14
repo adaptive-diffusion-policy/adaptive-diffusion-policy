@@ -1,6 +1,6 @@
 # Adaptive Diffusion Policy
 
-[Project Page](https://diffusion-policy.cs.columbia.edu/)
+[Project Page](https://adaptive-diffusion-policy.cs.columbia.edu/)
 
 ![overview](media/overview.png)
 
