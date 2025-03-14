@@ -1,5 +1,7 @@
 # Adaptive Diffusion Policy
 
+_Submitted to International Conference on Computer Vision, ICCV 2025_
+
 [Project Page](https://adaptive-diffusion-policy.github.io)
 
 ![overview](media/overview.png)
